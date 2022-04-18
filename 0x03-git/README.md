@@ -1,1 +1,2 @@
-my third commit
+0x03-git
+My git project
